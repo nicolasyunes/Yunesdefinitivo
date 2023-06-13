@@ -1,0 +1,152 @@
+*{
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: justify;
+}
+
+body{
+    background-color: #151515!important;
+    font-family: 'TTNorms-Bold', sans-serif;
+    color: #dbbdb0;
+    
+    
+  }
+
+
+
+.descripcion{
+    line-height: 2;
+}
+
+
+.staff{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 10px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  
+  
+}
+
+.container-mision, .container-vision, .container-historia{
+  display: flex;
+  flex-direction: row;
+  gap:45px;
+  margin-top: 110px;
+
+}
+.container-vision{
+  flex-direction: row-reverse;
+
+}
+
+img{
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.titulo-staff{
+  text-align: center;
+  font-size: 28px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-family: 'Nunito Sans', sans-serif;
+  text-transform:uppercase;
+
+}
+.container-img{
+  max-width: 640px;
+  max-height: 430px;
+
+
+}
+
+.divisor2{
+  border: 2px solid #858484  ;
+  width: 70%;
+  align-self: center;
+  margin-top: 100px;
+  margin-bottom: 5px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.titulo-mision, .titulo-vision, .titulo-historia{
+  font-size: 24px;
+  font-family: 'Nunito Sans', sans-serif;
+  color: #dbbdb0;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  
+   
+}
+
+.description-staff, f{
+  font-family: 'Nunito Sans', sans-serif;
+  padding: 15px 30px;
+  font-size: 20px;
+  color: #dbbdb0;
+}
+
+.titulo-staff{
+  font-family: 'Nunito Sans', sans-serif;
+ 
+  font-size: 32px;
+  color: #dbbdb0;
+}
+
+.contenedor1{
+  justify-content: space-around;
+  width: 100%;
+}
+
+.card-img-top{
+  max-height: 320px;
+  object-fit: cover;
+  object-position: center;
+}
+.card-nombre{
+  -webkit-text-stroke-width: medium;
+  
+}
+.card-text {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito Sans', sans-serif;
+ 
+}
+
+.card{
+  background-color: #e8d1c7!important;
+}
+
+h1{
+  text-align: center;
+  padding:35px;
+  margin-top:30px;
+  text-transform: uppercase;
+  color: #dba68f!important;
+}
+
+@media (max-width:991px) {
+  .container-mision, .container-vision, .container-historia{
+    display: flex;
+    flex-direction: column;
+    gap:45px;
+  }
+  
+}
+@media (max-width:768px) {
+  
+  .contenedor1{
+    flex-direction: column;
+    align-items: center;
+  }
+  .card{
+    width: 22rem!important;
+  }
+}

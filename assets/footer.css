@@ -1,0 +1,45 @@
+body{
+    background-color: #151515!important;
+    font-family: 'TTNorms-Bold', sans-serif;
+  }
+.container-footer{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 10px;
+    justify-content: space-around;
+    color: white;
+    
+    
+}
+.divisor{
+    border: 1.5px solid white  ;
+    margin-top: 10px;
+    margin-bottom: 35px;
+    align-self: center;
+    width:100%;
+   
+}
+
+.redes i{
+   font-size: 14px;
+   color: antiquewhite;
+   
+}
+
+.content div a i{
+    font-size: 14px!important;
+    color: white;
+}
+
+.content div :hover{
+    font-size: 18px!important;
+}
+
+@media (max-width:768px) {
+    .container-footer{
+        flex-direction: column;
+        padding: 20px;
+        gap: 20px;
+    }
+}

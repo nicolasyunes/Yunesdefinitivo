@@ -1,0 +1,177 @@
+CRITICAL - 2023-05-31 02:29:12 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(18): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:29:18 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(18): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:29:37 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(18): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:31:00 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(18): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:31:26 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(18): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:36:22 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(18): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:36:38 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(18): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:36:43 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(18): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:40:00 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(13): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:40:07 --> Invalid file: "listadoProductos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('listadoProductos.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listadoProductos', [], true)
+ 3 APPPATH\Controllers\ProductController.php(17): view('listadoProductos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:40:18 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(13): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:41:03 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(13): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:42:01 --> Invalid file: "listadoProductos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('listadoProductos.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listadoProductos', [], true)
+ 3 APPPATH\Controllers\ProductController.php(21): view('listadoProductos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->listar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:42:33 --> Invalid file: "listadoProductos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('listadoProductos.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listadoProductos', [], true)
+ 3 APPPATH\Controllers\ProductController.php(21): view('listadoProductos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->listar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:42:47 --> Undefined variable $productos
+in APPPATH\Views\listaProductosAdmin.php on line 30.
+ 1 APPPATH\Views\listaProductosAdmin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Yunes\\app\\Views\\listaProductosAdmin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listaProductosAdmin', [], true)
+ 5 APPPATH\Controllers\ProductController.php(13): view('listaProductosAdmin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:45:56 --> Invalid file: "listadoProductos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('listadoProductos.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listadoProductos', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('listadoProductos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 02:46:07 --> Invalid file: "listadoProductosAdmin.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('listadoProductosAdmin.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('listadoProductosAdmin', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('listadoProductosAdmin', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
